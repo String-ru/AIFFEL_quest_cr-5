@@ -7,6 +7,7 @@
 - 하객들의 질답을 통해 신랑 신부만의 유니크한 스토리텔링과 인간미 발산!  
    
 ## 앱 구조도  
+![image](https://github.com/user-attachments/assets/8d17a31c-f85c-4fb1-be03-de57a5473329)  
 
 ## 앱 와이어프레임    
 ![image](https://github.com/user-attachments/assets/df557531-12cc-414e-b518-2a4eee47c623)  
