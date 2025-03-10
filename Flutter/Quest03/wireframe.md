@@ -14,7 +14,9 @@
 ## 프로토타입  
 ![wedding_trivia_proto](https://github.com/user-attachments/assets/5fecb6c7-68a4-4375-ac36-16d7bb55eef9)
 
-## Flutter 구현  
+## Flutter 구현    
+- 와이어프레임에 맞추어 레이아웃 소폭 변경
+![wedding_trivia_2](https://github.com/user-attachments/assets/1638de35-25c7-4ad1-84e0-90b9f121a5dd)
 
 ## 회고  
 - 와이어프레임을 만드는 게 익숙하지 않아서 꼼꼼하게 레이아웃을 나누지 못한게 아쉽다.
