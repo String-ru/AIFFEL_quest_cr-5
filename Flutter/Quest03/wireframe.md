@@ -12,8 +12,9 @@
 ![image](https://github.com/user-attachments/assets/df557531-12cc-414e-b518-2a4eee47c623)  
 
 ## 프로토타입  
+![wedding_trivia_proto](https://github.com/user-attachments/assets/5fecb6c7-68a4-4375-ac36-16d7bb55eef9)
 
 ## Flutter 구현  
 
 ## 회고  
-- 
+- 와이어프레임을 만드는 게 익숙하지 않아서 
